@@ -1,0 +1,1 @@
+groups_research/results/* filter=lfs diff=lfs merge=lfs -text
